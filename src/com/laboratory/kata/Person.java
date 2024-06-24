@@ -1,4 +1,4 @@
-package com.laboratory;
+package com.laboratory.kata;
 
 public class Person {
 

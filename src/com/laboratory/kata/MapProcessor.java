@@ -1,4 +1,4 @@
-package com.laboratory;
+package com.laboratory.kata;
 
 import java.util.HashMap;
 import java.util.Map;
